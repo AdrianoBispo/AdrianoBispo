@@ -1,4 +1,4 @@
-# Seja Bem-Vindo! Sinta-se Livre! 😁✌
+# Bem-Vindo! Sinta-se Livre! 😁✌
 
 <div align="center">
   <a href="https://github.com/adrianobispo">

@@ -1,6 +1,6 @@
-#  Bem-Vindo !!! 🙋🏽‍♂️
+#  Bem-Vindo !!!
 
-## Estudando Softwares abaixo:
+## Linguagens que Utilizo:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="JavaScript" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -14,23 +14,23 @@
 <br>
 <br>
 
-## Contatos:
+## Contato:
 <br>
 <div>
     
-  <a href="https://instagram.com/eu_nicin">
-    <img align="center" alt="Instagram" height="60" width="70" src="https://img.icons8.com/color/48/000000/instagram-new--v1.png">
+  <a href="https://instagram.com/eu_nicin" margin="10px">
+    <img margin="10px" align="center" alt="Instagram" height="60" width="70" src="https://img.icons8.com/color/48/000000/instagram-new--v1.png">
   </a>
   
-  <a href="https://discord.com/channels/@me/763566087597719573" >
-    <img align="center" alt="Discord" height="60" width="70" src="https://img.icons8.com/fluency/48/000000/discord-logo.png"/>
+  <a href="https://discord.com/channels/@me/763566087597719573" margin="10px">
+    <img margin="10px" align="center" alt="Discord" height="60" width="70" src="https://img.icons8.com/fluency/48/000000/discord-logo.png"/>
   </a>
   
-  <a href = "https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox">
+  <a href = "https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox" margin="10px">
     <img align="center" alt="E-mail" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg">
   </a>
   
-  <a href="https://www.linkedin.com/in/adriano-bispo-85293a240/">
+  <a href="https://www.linkedin.com/in/adriano-bispo-85293a240/" margin="10px">
     <img align="center" alt="LinkedIn" height="60" width="70" src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png"/>
   </a>   
 </div>

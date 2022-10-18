@@ -1,4 +1,4 @@
-#  Bem-Vindo !!!
+#  Seja Bem-Vindo !!!
 
 Meu nome é Adriano, tenho 18 anos e estou concluindo o ensino médio/técnico na ETE Porto Digital; onde estou cursando Desenvolvimento de Sistemas.
 Sou apaixonado por tecnologia desd'a infância e tenho paixão em desenvolver e aprender a ciência das máquinas.

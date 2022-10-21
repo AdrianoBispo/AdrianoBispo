@@ -18,15 +18,15 @@ Sou apaixonado por tecnologia desd'a infância e tenho paixão em desenvolver e 
 <br>
 <div>
     
-  <a href="https://instagram.com/eu_nicin" margin="10px">
+  <a href="https://instagram.com/eu_nicin">
     <img margin="10px" align="center" alt="Instagram" height="60" width="70" src="https://img.icons8.com/color/48/000000/instagram-new--v1.png">
   </a>
   
-  <a href = "https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox" margin="10px">
-    <img align="center" alt="E-mail" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg">
+  <a href = "https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox">
+    <img align="center" alt="E-mail" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/768px-Gmail_icon_%282020%29.svg.png?20221017173631">
   </a>
   
-  <a href="https://www.linkedin.com/in/adriano-bispo-85293a240/" margin="10px">
+  <a href="https://www.linkedin.com/in/adriano-bispo-85293a240/">
     <img align="center" alt="LinkedIn" height="60" width="70" src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png"/>
   </a>   
 </div>

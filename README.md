@@ -1,14 +1,14 @@
-#  Seja Bem-Vindo !!!
+# Bem-Vindo !!!
 
 Meu nome é Adriano, tenho 18 anos e estou concluindo o ensino médio/técnico na ETE Porto Digital; onde estou cursando Desenvolvimento de Sistemas.
 Sou apaixonado por tecnologia desd'a infância e tenho paixão em desenvolver e aprender a ciência das máquinas.
 
 <div><br>
   <h1 align="center"> Tecnologias: </h1>
-  <img align="center" alt="JavaScript" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="TypeScript" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="React" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="NodeJS" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img alt="JavaScript" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img alt="TypeScript" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img alt="React" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img alt="Angular" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
   <img align="left" height="35%" width="35%" src="https://cdn.discordapp.com/attachments/743927816021737565/1031679578353172570/IMG_8338-removebg-preview.png">
 </div>
 <br>

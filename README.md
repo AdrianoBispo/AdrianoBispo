@@ -9,6 +9,7 @@ Sou apaixonado por tecnologia desd'a infância e tenho paixão em desenvolver e 
   <img alt="TypeScript" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img alt="React" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img alt="Angular" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+  <img alt="Ionic" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" />
   <img align="left" height="35%" width="35%" src="https://cdn.discordapp.com/attachments/743927816021737565/1031679578353172570/IMG_8338-removebg-preview.png">
 </div>
 <br>

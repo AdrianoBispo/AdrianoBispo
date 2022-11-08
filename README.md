@@ -15,20 +15,19 @@ Sou apaixonado por tecnologia desd'a infância e tenho paixão em desenvolver e 
 <br>
 <br>
 
-## Contato:
-<br>
+## 🔗 Links:
 <div>
     
   <a href="https://instagram.com/eu_nicin">
-    <img margin="10px" align="center" alt="Instagram" height="60" width="70" src="https://img.icons8.com/color/48/000000/instagram-new--v1.png">
+    <img margin="10px" align="center" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
   
   <a href = "https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox">
-    <img align="center" alt="E-mail" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/768px-Gmail_icon_%282020%29.svg.png?20221017173631">
+    <img align="center" alt="E-mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   
   <a href="https://www.linkedin.com/in/adriano-bispo-85293a240/">
-    <img align="center" alt="LinkedIn" height="60" width="70" src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png"/>
+    <img align="center" alt="linkedIN" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" >
   </a>   
 </div>
 

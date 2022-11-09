@@ -15,7 +15,7 @@ Sou apaixonado por tecnologia desd'a infância e tenho paixão em desenvolver e 
 <br>
 <br>
 
-## 🔗 Links:
+## 📬 Contato:
 <div>
     
   <a href="https://instagram.com/eu_nicin">

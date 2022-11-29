@@ -10,7 +10,7 @@
   <img alt="React" height="5%" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img alt="Angular" height="5%" width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
   <img alt="Ionic" height="5%" width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" />
-</div> <br>
+</div>
 
 <h2>📬 Contacts: </h2>
 

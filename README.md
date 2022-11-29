@@ -1,5 +1,3 @@
-<img align="left" height="35%" width="35%" alt="foto lateral" src="https://github.com/AdrianoBispo/AdrianoBispo/blob/main/profilePhoto.png">
-
 <h1>👦🏽 About Me... </h1>
 
 <b>My name is Adriano, I'm 18 years old and I'm finishing secondary/technical education at ETE Porto Digital; where I'm studying Systems Development. I love meeting and I seek to learn more and more how technologies work.<b> <br>

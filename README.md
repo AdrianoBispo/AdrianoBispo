@@ -5,10 +5,12 @@
   </a>
 </h1>
 
-<p align="justify"><b>
-  My name is Adriano, I'm 18 years old and I'm finishing secondary/technical education at ETE Porto Digital; where I'm studying Systems Development. I love meeting and
-  I seek to learn more and more how technologies work.
-</b></p>
+<p align="justify">
+  <b>
+    My name is Adriano, I'm 18 years old and I'm finishing secondary/technical education at ETE Porto Digital; where I'm studying Systems Development. I love meeting
+    and I seek to learn more and more how technologies work.
+  </b>
+</p>
 
 <h2> 💻 Tech Stack </h2>
 <div>
@@ -36,13 +38,7 @@
 <h2> 🏆 GitHub Trophies </h2>
 <img src="https://github-profile-trophy.vercel.app/?username=AdrianoBispo&theme=radical&no-frame=true&no-bg=false&margin-w=4" />
 
-<h2> ✍️ Random Dev Quote </h2>
-<img width="100%" heigth="100%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-
-<h2> 🐍 Snake Eating Commit </h2>
-<img alt="Snake Animation" src="https://github.com/AdrianoBispo/AdrianoBispo/blob/output/github-contribution-grid-snake.svg" />
-
-<h2> 🌐 My Social Networks <h2>
+<h2> 🌐 My Social Networks </h2>
 <a href="https://instagram.com/eu_nicin">
   <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
 </a>
@@ -50,5 +46,8 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/adriano-bispo-85293a240/">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
 </a>
+
+<h2> 🐍 Snake Eating Commit </h2>
+<img alt="Snake Animation" src="https://github.com/AdrianoBispo/AdrianoBispo/blob/output/github-contribution-grid-snake.svg" />
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

@@ -1,7 +1,16 @@
-<h1> 👦🏽 About Me... </h1>
-My name is Adriano, I'm 18 years old and I'm finishing secondary/technical education at ETE Porto Digital; where I'm studying Systems Development. I love meeting and I seek to learn more and more how technologies work. 
+<h1>
+  👦🏽 About Me... 
+  <a href="https://visitcount.itsvg.in">
+    <img align="right" src="https://visitcount.itsvg.in/api?id=AdrianoBispo&icon=3&color=11" />
+  </a>
+</h1>
 
-<h2> 💻 Tech Stack: </h2>
+<p align="justify"><b>
+  My name is Adriano, I'm 18 years old and I'm finishing secondary/technical education at ETE Porto Digital; where I'm studying Systems Development. I love meeting and
+  I seek to learn more and more how technologies work.
+</b></p>
+
+<h2> 💻 Tech Stack </h2>
 <div>
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
   <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -19,23 +28,27 @@ My name is Adriano, I'm 18 years old and I'm finishing secondary/technical educa
   <img alt="Trello" src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" />
 </div>
   
-<h2> 📊 GitHub Stats: </h2>
+<h2> 📊 GitHub Stats </h2>
 <img src="https://github-readme-stats.vercel.app/api?username=AdrianoBispo&theme=jolly&hide_border=false&include_all_commits=false&count_private=true" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdrianoBispo&theme=jolly&hide_border=false" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianoBispo&theme=jolly&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AdrianoBispo&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+<h2> 🏆 GitHub Trophies </h2>
+<img src="https://github-profile-trophy.vercel.app/?username=AdrianoBispo&theme=radical&no-frame=true&no-bg=false&margin-w=4" />
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<h2> ✍️ Random Dev Quote </h2>
+<img width="100%" heigth="100%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 
-![Snake animation](https://github.com/AdrianoBispo/AdrianoBispo/blob/output/github-contribution-grid-snake.svg)
+<h2> 🐍 Snake Eating Commit </h2>
+<img alt="Snake Animation" src="https://github.com/AdrianoBispo/AdrianoBispo/blob/output/github-contribution-grid-snake.svg" />
 
-### 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/eu_nicin)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/adriano-bispo-85293a240/)
+<h2> 🌐 My Social Networks <h2>
+<a href="https://instagram.com/eu_nicin">
+  <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
+</a>
 
-[![](https://visitcount.itsvg.in/api?id=AdrianoBispo&icon=3&color=11)](https://visitcount.itsvg.in)
-
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/adriano-bispo-85293a240/">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
+</a>
+  
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

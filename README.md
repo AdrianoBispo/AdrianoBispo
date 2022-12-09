@@ -15,11 +15,11 @@
 <h2>📬 Contacts: </h2>
 
 <a href="https://instagram.com/eu_nicin">
-  <img align="center" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
   
 <a href="https://www.linkedin.com/in/adriano-bispo-85293a240/">
-  <img align="center" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" >
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" >
 </a>
 
 ![Snake animation](https://github.com/AdrianoBispo/AdrianoBispo/blob/output/github-contribution-grid-snake.svg)

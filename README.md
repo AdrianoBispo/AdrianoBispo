@@ -19,10 +19,10 @@ My name is Adriano, I'm 18 years old and I'm finishing secondary/technical educa
   <img alt="Trello" src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" />
 </div>
   
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AdrianoBispo&theme=jolly&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AdrianoBispo&theme=jolly&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianoBispo&theme=jolly&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+<h2> 📊 GitHub Stats: </h2>
+<img src="https://github-readme-stats.vercel.app/api?username=AdrianoBispo&theme=jolly&hide_border=false&include_all_commits=false&count_private=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AdrianoBispo&theme=jolly&hide_border=false" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianoBispo&theme=jolly&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AdrianoBispo&theme=radical&no-frame=true&no-bg=false&margin-w=4)

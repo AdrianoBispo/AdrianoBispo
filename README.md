@@ -40,11 +40,11 @@
 
 <h2> 🌐 My Social Networks </h2>
 <a href="https://instagram.com/eu_nicin">
-  <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
+  <img alt="Instagram" src="https://img.shields.io/badge/Instagram-e95950?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/adriano-bispo-85293a240/">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/adriano-bispo-85293a240/">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" >
 </a>
 
 <h2> 🐍 Snake Eating Commit </h2>

@@ -14,20 +14,20 @@
 
 <h2> 💻 Tech Stack </h2>
 <div>
-  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2320232a?style=for-the-badge&logo=node.js&logoColor=green" />
-  <img alt="Angular" src="https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white" />
-  <img alt="NPM" src="https://img.shields.io/badge/NPM-%2320232a.svg?style=for-the-badge&logo=npm&logoColor=dark" />
-  <img alt="React Native" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
-  <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
-  <img alt="Trello" src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-909.svg?style=for-the-badge&logo=javascript&logoColor=ff0" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/typescript-909.svg?style=for-the-badge&logo=typescript&logoColor=%23007ACC" />
+  <img alt="HTML5" src="https://img.shields.io/badge/html5-909.svg?style=for-the-badge&logo=html5&logoColor=%23E34F26" />
+  <img alt="CSS3" src="https://img.shields.io/badge/css3-909.svg?style=for-the-badge&logo=css3&logoColor=%23007ACC" />
+  <img alt="PHP" src="https://img.shields.io/badge/php-909.svg?style=for-the-badge&logo=php&logoColor=%23777BB4" />
+  <img alt="React" src="https://img.shields.io/badge/react-909.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img alt="NodeJS" src="https://img.shields.io/badge/node.js-909.svg?style=for-the-badge&logo=node.js&logoColor=green" />
+  <img alt="Angular" src="https://img.shields.io/badge/angular-909.svg?style=for-the-badge&logo=angularjs&logoColor=f00" />
+  <img alt="NPM" src="https://img.shields.io/badge/NPM-909.svg?style=for-the-badge&logo=npm&logoColor=dark" />
+  <img alt="React Native" src="https://img.shields.io/badge/react_native-909.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img alt="MySQL" src="https://img.shields.io/badge/mysql-909.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img alt="Canva" src="https://img.shields.io/badge/Canva-909.svg?style=for-the-badge&logo=Canva&logoColor=%2300C4CC" />
+  <img alt="Figma" src="https://img.shields.io/badge/figma-909.svg?style=for-the-badge&logo=figma&logoColor=%23E34F26" />
+  <img alt="Trello" src="https://img.shields.io/badge/Trello-909.svg?style=for-the-badge&logo=Trello&logoColor=%23007ACC" />
 </div>
   
 <h2> 📊 GitHub Stats </h2>
@@ -40,11 +40,11 @@
 
 <h2> 🌐 My Social Networks </h2>
 <a href="https://instagram.com/eu_nicin">
-  <img alt="Instagram" src="https://img.shields.io/badge/Instagram-e95950?style=for-the-badge&logo=instagram&logoColor=white">
+  <img alt="Instagram" src="https://img.shields.io/badge/Instagram-909.svg?style=for-the-badge&logo=instagram&logoColor=%23E34F26">
 </a>
 
 <a href="https://www.linkedin.com/in/adriano-bispo-85293a240/">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" >
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-909.svg?style=for-the-badge&logo=linkedin&logoColor=%23007ACC" >
 </a>
 
 <h2> 🐍 Snake Eating Commit </h2>

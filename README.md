@@ -47,7 +47,7 @@
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-909.svg?style=for-the-badge&logo=linkedin&logoColor=%23007ACC" >
 </a>
 
-<h2> 🐍 Snake Eating Commit </h2>
+<h2> 🐍 Snake Animation </h2>
 <img alt="Snake Animation" src="https://github.com/AdrianoBispo/AdrianoBispo/blob/output/github-contribution-grid-snake.svg" />
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

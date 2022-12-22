@@ -14,17 +14,18 @@
 
 <h2> 💻 Tech Stack </h2>
 <div>
-  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-909.svg?style=for-the-badge&logo=javascript&logoColor=ff0" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/typescript-909.svg?style=for-the-badge&logo=typescript&logoColor=%23007ACC" />
+  
+  
   <img alt="HTML5" src="https://img.shields.io/badge/html5-909.svg?style=for-the-badge&logo=html5&logoColor=%23E34F26" />
   <img alt="CSS3" src="https://img.shields.io/badge/css3-909.svg?style=for-the-badge&logo=css3&logoColor=%23007ACC" />
-  <img alt="PHP" src="https://img.shields.io/badge/php-909.svg?style=for-the-badge&logo=php&logoColor=%23777BB4" />
-  <img alt="React" src="https://img.shields.io/badge/react-909.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img alt="NodeJS" src="https://img.shields.io/badge/node.js-909.svg?style=for-the-badge&logo=node.js&logoColor=green" />
-  <img alt="Angular" src="https://img.shields.io/badge/angular-909.svg?style=for-the-badge&logo=angularjs&logoColor=f00" />
-  <img alt="NPM" src="https://img.shields.io/badge/NPM-909.svg?style=for-the-badge&logo=npm&logoColor=dark" />
-  <img alt="React Native" src="https://img.shields.io/badge/react_native-909.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-909.svg?style=for-the-badge&logo=javascript&logoColor=ff0" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/typescript-909.svg?style=for-the-badge&logo=typescript&logoColor=%23007ACC" />
   <img alt="MySQL" src="https://img.shields.io/badge/mysql-909.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img alt="NodeJS" src="https://img.shields.io/badge/node.js-909.svg?style=for-the-badge&logo=node.js&logoColor=green" />
+  <img alt="NPM" src="https://img.shields.io/badge/NPM-909.svg?style=for-the-badge&logo=npm&logoColor=dark" />
+  <img alt="Angular" src="https://img.shields.io/badge/angular-909.svg?style=for-the-badge&logo=angularjs&logoColor=f00" />
+  <img alt="React" src="https://img.shields.io/badge/react-909.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img alt="React Native" src="https://img.shields.io/badge/react_native-909.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
   <img alt="Canva" src="https://img.shields.io/badge/Canva-909.svg?style=for-the-badge&logo=Canva&logoColor=%2300C4CC" />
   <img alt="Figma" src="https://img.shields.io/badge/figma-909.svg?style=for-the-badge&logo=figma&logoColor=%23E34F26" />
   <img alt="Trello" src="https://img.shields.io/badge/Trello-909.svg?style=for-the-badge&logo=Trello&logoColor=%23007ACC" />

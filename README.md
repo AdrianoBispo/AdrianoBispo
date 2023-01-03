@@ -32,9 +32,9 @@
 </div>
   
 <h2> 📊 GitHub Stats </h2>
-<img src="https://github-readme-stats.vercel.app/api?username=AdrianoBispo&theme=jolly&hide_border=false&include_all_commits=false&count_private=tru" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AdrianoBispo&theme=jolly&hide_border=fals" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=AdrianoBispo&theme=jolly&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api?username=AdrianoBispo&theme=jolly&hide_border=false&include_all_commits=false&count_private=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AdrianoBispo&theme=jolly&hide_border=false" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianoBispo&theme=jolly&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
 
 <h2> 🏆 GitHub Trophies </h2>
 <img src="https://github-profile-trophy.vercel.app/?username=AdrianoBispo&theme=radical&no-frame=true&no-bg=false&margin-w=4" />

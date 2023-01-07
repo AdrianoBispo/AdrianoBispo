@@ -1,6 +1,5 @@
 <h1>
   👦🏽 About Me... 
-  <a href="https://visitcount.itsvg.in">
     <img align="right" src="https://visitcount.itsvg.in/api?id=AdrianoBispo&icon=3&color=11" />
   </a>
 </h1>

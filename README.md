@@ -15,9 +15,7 @@
   <img alt="CSS3" src="https://img.shields.io/badge/css3-909.svg?style=for-the-badge&logo=css3&logoColor=%23007ACC" />
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-909.svg?style=for-the-badge&logo=javascript&logoColor=ff0" />
   <img alt="TypeScript" src="https://img.shields.io/badge/typescript-909.svg?style=for-the-badge&logo=typescript&logoColor=%23007ACC" />
-  <img alt="MySQL" src="https://img.shields.io/badge/mysql-909.svg?style=for-the-badge&logo=mysql&logoColor=white" />
   <img alt="NodeJS" src="https://img.shields.io/badge/node.js-909.svg?style=for-the-badge&logo=node.js&logoColor=green" />
-  <img alt="NPM" src="https://img.shields.io/badge/NPM-909.svg?style=for-the-badge&logo=npm&logoColor=dark" />
   <img alt="Angular" src="https://img.shields.io/badge/angular-909.svg?style=for-the-badge&logo=angularjs&logoColor=f00" />
   <img alt="React" src="https://img.shields.io/badge/react-909.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
   <img alt="React Native" src="https://img.shields.io/badge/react_native-909.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />

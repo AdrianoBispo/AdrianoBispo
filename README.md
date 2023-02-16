@@ -21,9 +21,6 @@
   <img alt="Angular" src="https://img.shields.io/badge/angular-909.svg?style=for-the-badge&logo=angularjs&logoColor=f00" />
   <img alt="React" src="https://img.shields.io/badge/react-909.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
   <img alt="React Native" src="https://img.shields.io/badge/react_native-909.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img alt="Canva" src="https://img.shields.io/badge/Canva-909.svg?style=for-the-badge&logo=Canva&logoColor=%2300C4CC" />
-  <img alt="Figma" src="https://img.shields.io/badge/figma-909.svg?style=for-the-badge&logo=figma&logoColor=%23E34F26" />
-  <img alt="Trello" src="https://img.shields.io/badge/Trello-909.svg?style=for-the-badge&logo=Trello&logoColor=%23007ACC" />
 </div>
  
 <h2> 🏆 GitHub Trophies </h2>

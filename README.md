@@ -22,8 +22,11 @@
   <img alt="React Native" src="https://img.shields.io/badge/react_native-909.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 </div>
  
-<h2> 🏆 GitHub Trophies </h2>
-<img src="https://github-profile-trophy.vercel.app/?username=AdrianoBispo&theme=radical&no-frame=true&no-bg=false&margin-w=4" />
+<h2> 📊 GitHub Stats </h2>
+
+![Adriano's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdrianoBispo&show_icons=true&theme=radical&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianoBispo&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2> 🌐 My Social Networks </h2>
 <a href="https://instagram.com/eu_nicin">

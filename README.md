@@ -24,9 +24,9 @@
  
 <h2> 📊 GitHub Stats </h2>
 
-![Adriano's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdrianoBispo&show_icons=true&theme=radical&count_private=true)
+[![Adriano's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdrianoBispo&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianoBispo&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianoBispo&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2> 🌐 My Social Networks </h2>
 <a href="https://instagram.com/eu_nicin">

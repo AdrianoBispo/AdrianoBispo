@@ -24,7 +24,7 @@
  
 <h2> 📊 GitHub Stats </h2>
 
-[![Adriano's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdrianoBispo&show_icons=true&theme=radical&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Adriano's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdrianoBispo&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianoBispo&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 

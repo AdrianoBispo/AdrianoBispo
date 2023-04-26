@@ -1,32 +1,34 @@
-# 👦🏽 About Me... 
+<h1 align=center>Adriano Bispo</h1>
 
-<p align="justify">
-  <b>
-    My name is Adriano, I'm 18 years old and I'm finishing secondary/technical education at ETE Porto Digital; where I'm studying Systems Development. I love meeting
-    and I seek to learn more and more how technologies work.
-  </b>
-</p>
+<div align="center">
+
+  *Systems Developer | Focused on FrontEnd*
   
-<h2> 📊 GitHub Stats </h2>
+  [![Linkedin Badge](https://img.shields.io/badge/-Adriano_Bispo-000?style=flat-square&logo=Linkedin&logoColor=%23007ACC&link=https://www.linkedin.com/in/adriano-vin%C3%ADcius-bispo-da-silva-85293a240/)](https://www.linkedin.com/in/adriano-vin%C3%ADcius-bispo-da-silva-85293a240/) 
+  [![Gmail Badge](https://img.shields.io/badge/-adrianov.bispo@gmail.com-000?style=flat-square&logo=Gmail&link=mailto:adrianov.bispo@gmail.com)](mailto:adrianov.bispo@gmail.com)
+ 
+--- 
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AdrianoBispo&show_icons=true&theme=github_dark&count_private=true&hide_border=true" alt="Adriano's GitHub Stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianoBispo&theme=github_dark&hide_border=true" /></a> |
-| ------------- | ------------- |
+</div>
 
-<h2> 🌐 My Social Networks </h2>
-<a href="https://instagram.com/eu_nicin">
-  <img alt="Instagram" src="https://img.shields.io/badge/instagram-000?style=for-the-badge&logo=instagram&logoColor=D14836">
-</a>
+## Quem sou eu?
 
-<a href="https://www.linkedin.com/in/adriano-bispo-85293a240/">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-000.svg?style=for-the-badge&logo=linkedin&logoColor=%23007ACC" >
-</a>
+- Eu sou um jovem de 18 anos, técnico em Desenvolvimento de Sistemas pela ETE Porto Digital e busco trilhar minha carreira na área de Desenvolvimento Web;
+- Sou uma pessoa bastante curiosa e que tem uma grande paixão por tecnologia e inovação;
+- Sou uma pessoa proativa que gosta de estudar e aprender coisas novas, quando me esbarro com um desafio corro atrás da solução sem medo de me arriscar;
+- Também sou organizado e tenho boas habilidades de comunicação, o que facilita minha capacidade de trabalhar em equipe.
+- Nos tempos livres gosto de ler artigos e assistir vídeos sobre tecnologia e ciência. Também curto assistir filmes e séries de ficção científica e participar de atividades esportivas, como jogar vôlei e pedalar.
+- Sou bastante observador, gosto de apreciar os mínimos detalhes nas coisas ao meu redor;
+
+> 📚 **[Clique aqui](https://github.com/AdrianoBispo/recomendacoes-de-livros) para acessar a tabela de livros de programação que pretendo ler**
+---
 
 <details>
-  <summary>  
-    <h2> 💻 Tech Stack </h2>
-  </summary>
-    
-  <!-- Organization Techs -->
+<summary>
+  Conhecimentos técnicos
+</summary>
+
+<!-- Organization Techs -->
   <h4>Organization Techs</h4>
   <img alt="Trello" src="https://img.shields.io/badge/trello-000.svg?style=for-the-badge&logo=trello&logoColor=%23007ACC" />
   <img alt="Notion" src="https://img.shields.io/badge/notion-000.svg?style=for-the-badge&logo=notion" />
@@ -55,7 +57,16 @@
   <img alt="Ionic" src="https://img.shields.io/badge/ionic-000.svg?style=for-the-badge&logo=ionic" />
   <img alt="React Native" src="https://img.shields.io/badge/react_native-000.svg?style=for-the-badge&logo=react" />
   
-</details> 
+</details>
+
+<h2 align=center> 📊 GitHub Stats </h2>
+
+<div align="center">
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AdrianoBispo&show_icons=true&theme=github_dark&count_private=true&hide_border=true" alt="Adriano's GitHub Stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianoBispo&theme=github_dark&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+</div>
 
 <h2> 🐍 Snake Animation </h2>
 <img alt="Snake Animation" src="https://github.com/AdrianoBispo/AdrianoBispo/blob/output/github-contribution-grid-snake.svg" />

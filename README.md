@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  *Systems Developer | Focused on FrontEnd*
+  *Systems Developer*
   
   [![Linkedin Badge](https://img.shields.io/badge/-Adriano_Bispo-000?style=flat-square&logo=Linkedin&logoColor=%23007ACC&link=https://www.linkedin.com/in/adriano-vin%C3%ADcius-bispo-da-silva-85293a240/)](https://www.linkedin.com/in/adriano-vin%C3%ADcius-bispo-da-silva-85293a240/) 
   [![Gmail Badge](https://img.shields.io/badge/-adrianov.bispo@gmail.com-000?style=flat-square&logo=Gmail&link=mailto:adrianov.bispo@gmail.com)](mailto:adrianov.bispo@gmail.com)
@@ -10,18 +10,6 @@
 --- 
 
 </div>
-
-## Quem sou eu?
-
-- Eu sou um jovem de 18 anos, técnico em Desenvolvimento de Sistemas pela ETE Porto Digital e busco trilhar minha carreira na área de Desenvolvimento Web;
-- Sou uma pessoa bastante curiosa e que tem uma grande paixão por tecnologia e inovação;
-- Sou uma pessoa proativa que gosta de estudar e aprender coisas novas, quando me esbarro com um desafio corro atrás da solução sem medo de me arriscar;
-- Também sou organizado e tenho boas habilidades de comunicação, o que facilita minha capacidade de trabalhar em equipe.
-- Nos tempos livres gosto de ler artigos e assistir vídeos sobre tecnologia e ciência. Também curto assistir filmes e séries de ficção científica e participar de atividades esportivas, como jogar vôlei e pedalar.
-- Sou bastante observador, gosto de apreciar os mínimos detalhes nas coisas ao meu redor;
-
-> 📚 **[Clique aqui](https://github.com/AdrianoBispo/recomendacoes-de-livros) para acessar a tabela de livros de programação que pretendo ler**
----
 
 <details>
 <summary>

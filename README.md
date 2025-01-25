@@ -56,7 +56,3 @@
 | ------------- | ------------- |
 
 </div>
-
-<h2> 🐍 Snake Animation </h2>
-
-![snake gif](https://github.com/AdrianoBispo/AdrianoBispo/blob/output/github-contribution-grid-snake.svg)

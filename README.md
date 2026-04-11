@@ -34,7 +34,7 @@
  
  <img width="48" height="48" src="https://img.icons8.com/color/48/sap.png" alt="SAP ABAP"/>
  <img width="48" height="48" src="https://cap.cloud.sap/docs/logos/cap.svg" alt="SAP CAP">
- <img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,express,nest,java,spring&theme=dark&perline=12" />
+ <img src="https://skills.syvixor.com/api/icons?i=javascript,typescript,nodejs,express,fastify,nestjs,java,kotlin,spring,ktor&theme=dark&perline=12" />
  
  <h4>Front-End</h4>
  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
@@ -54,6 +54,7 @@
  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ionic/ionic-original.svg" />
  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/capacitor/capacitor-original.svg" />
  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
+ <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xml/xml-original.svg" />
  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg" />
  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original.svg" />
  

@@ -1,11 +1,4 @@
-<div>
-<h1 align="left">Quem é Adriano Bispo?</h1>
-<img width="500px" height="490px" src="https://github.com/user-attachments/assets/8bf37732-e190-4098-94f2-809da879c0ce" />
-</div>
-
-<div>
-
- <h2>Desenvolvedor Full Stack</h3>
+<h2>Desenvolvedor Full Stack</h3>
  
  <p>Sou aluno do Embarque Digital apaixonado por tecnologia com experiência em desenvolvimento de soluções web e mobile com foco em inovação e tecnologia. Comecei meus estudos na área de TI durante o ensino médio/técnico na ETE Porto Digital, onde obtive meu primeiro contato com a área de tecnologia.</p>
  
